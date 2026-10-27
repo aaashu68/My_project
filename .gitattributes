@@ -1,2 +1,28 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>My Profile</h1>
+    <img src="Ashutosh Kumar image.jpeg" alt="Image">
+    <p><strong>Name:</strong>Ashutosh Kumar</p>
+    <p><strong>Course:</strong>B.Tech (CSE)</p>
+    <p><strong>College:</strong>ABES ENGINEERING COLLEGE</p>
+    <p><strong>City:</strong>Ghaziabad</p>
+    <hr>
+    <h2>About Me</h2>
+    <p>
+        <ul>
+            <li>I am a student of CSE.</li>
+        </ul>
+    </p>
+    <p>
+        <ul>
+            <li>I am interested in Computer Science,Data Science.</li>
+        </ul>
+    </p>
+</body>
+</html>
